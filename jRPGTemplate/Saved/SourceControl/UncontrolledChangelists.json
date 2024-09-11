@@ -1,0 +1,24 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/drauc/Documents/GitHub/prod1-prototyperpg/jRPGTemplate/Content/jRPGTemplate/Demo/Maps/Map_Battle1.umap",
+				"C:/Users/drauc/Documents/GitHub/prod1-prototyperpg/jRPGTemplate/Content/jRPGTemplate/Blueprints/Components/AC_jRPG_CharactersManager.uasset",
+				"C:/Users/drauc/Documents/GitHub/prod1-prototyperpg/jRPGTemplate/Content/jRPGTemplate/Demo/Maps/Map_Battle2.umap",
+				"C:/Users/drauc/Documents/GitHub/prod1-prototyperpg/jRPGTemplate/Content/jRPGTemplate/Demo/Characters/BP_jRPGDemo_Argon.uasset",
+				"C:/Users/drauc/Documents/GitHub/prod1-prototyperpg/jRPGTemplate/Content/jRPGTemplate/Demo/Characters/BP_jRPGDemo_CursedAna.uasset",
+				"C:/Users/drauc/Documents/GitHub/prod1-prototyperpg/jRPGTemplate/Content/jRPGTemplate/Demo/Characters/BP_jRPGDemo_Kira.uasset",
+				"C:/Users/drauc/Documents/GitHub/prod1-prototyperpg/jRPGTemplate/Content/jRPGTemplate/Demo/Characters/BP_jRPGDemo_Mark.uasset",
+				"C:/Users/drauc/Documents/GitHub/prod1-prototyperpg/jRPGTemplate/Content/jRPGTemplate/Demo/Characters/BP_jRPGDemo_ZX354.uasset",
+				"C:/Users/drauc/Documents/GitHub/prod1-prototyperpg/jRPGTemplate/Content/jRPGTemplate/Demo/Maps/Map_World2.umap",
+				"C:/Users/drauc/Documents/GitHub/prod1-prototyperpg/jRPGTemplate/Content/jRPGTemplate/Blueprints/Basics/BP_jRPG_Character_World.uasset",
+				"C:/Program Files (x86)/Epic/UE_5.4/Engine/Content/BasicShapes/Cube_Cube/GC_Cube18.uasset",
+				"C:/Program Files (x86)/Epic/UE_5.4/Engine/Content/BasicShapes/Cube_Cube/GC_Cube18_GC_Cube18/GC_GC_Cube18.uasset",
+				"C:/Program Files (x86)/Epic/UE_5.4/Engine/Content/BasicShapes/Cube_Cube/GC_Cube19.uasset"
+			]
+		}
+	]
+}
